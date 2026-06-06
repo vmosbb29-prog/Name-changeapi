@@ -55,7 +55,7 @@ MAJOR_LOGIN_URL = "https://loginbp.ggblueshark.com/MajorLogin"
 GAME_VERSION  = "OB53"
 UNITY_VERSION = "2018.4.11f1"
 USER_AGENT    = "Dalvik/2.1.0 (Linux; U; Android 11; SM-A305F Build/RP1A.200720.012)"
-DEVELOPERS    = "@STAR_GMR"
+DEVELOPERS    = "@xnxxnvnvj"
 
 # ==================== TELEGRAM BATCH SYSTEM ====================
 
